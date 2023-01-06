@@ -3,7 +3,7 @@
 </head>
 <body>
 <center>
-<form action="/https://thirumurugan1.github.io/paysuccess/" method="post">
+<form action="https://thirumurugan1.github.io/paysuccess/" method="get">
 			<div class="container">
 				<label for="uname"><b>Mobile Number</b></label>
 				<input type="text" placeholder="Enter Mobile Number" name="uname" required>
