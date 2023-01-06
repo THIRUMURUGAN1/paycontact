@@ -16,12 +16,4 @@
 				
 				<button type="submit">Pay</button>
 				<label>
-				
-			</div>
-
 			
-			
-		</form>
-    </center>
-</body>
-</html>
